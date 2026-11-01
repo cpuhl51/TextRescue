@@ -1,0 +1,8 @@
+# Laufzeit- und Build-Artefakte, nie committen
+buffer.dat
+key.dat
+config.json
+build/
+dist/
+*.spec
+__pycache__/
