@@ -320,7 +320,7 @@ TEXTS = {
 # Feste Links fuer die Credit-/Spenden-Zeile
 MAILTO_URL = "mailto:apps@puhl.ch"
 DONATE_URL = "https://paypal.me/PuhlChristoph"
-GITHUB_URL = "https://github.com/"          # wird gesetzt, sobald das Repo steht
+GITHUB_URL = "https://github.com/cpuhl51/TextRescue"
 AUTHOR_URL = "https://de.wikipedia.org/wiki/Christoph_Puhl"
 COMICS_URL = "https://www.diezöno.se"
 PUHL_URL = "https://www.puhl.ch"
